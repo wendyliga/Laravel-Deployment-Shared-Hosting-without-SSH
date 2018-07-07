@@ -1,5 +1,5 @@
 # Laravel Deployment Shared Hosting
-Laravel Deployment Shared Hosting with or without SSH
+Laravel Deployment on Shared Hosting with or without SSH
 
 ## Without SSH
 ### Laravel 5.5
