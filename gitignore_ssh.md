@@ -4,6 +4,8 @@
 if you place your Laravel Project on Root Shared Hosting Cpanel and want to use git ,
 add this following gitignore onto yours
 
+```
+# .gitignore
 
 .cagefs
 .cl.selector
@@ -45,3 +47,5 @@ cpbackup-exclude.conf
 error_log
 www
 public_html/cgi_bin
+
+```
