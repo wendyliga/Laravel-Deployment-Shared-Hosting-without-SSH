@@ -52,6 +52,12 @@ php artisan key:generate
 4. You Supposed to have no problem use your `artisan` and `composer` command
 
 #### if you had git supported project 
-You could init your git in root of Shared Hosting and add this following .gitignore to prevent unnecessary file push to your git repository
+You could init your git in root of Shared Hosting and add this following `.gitignore` to prevent unnecessary file push to your git repository
 
 [grab your .gitignore here](https://github.com/wendyliga/laravel-deployment-shared-hosting/blob/master/gitignore_ssh.md)
+
+# Next Steps
+Happy Code Guys
+
+# Feedback
+Please don't hesitate for issuing something that doesn't work for you, I will really happy to help you
