@@ -60,4 +60,4 @@ You could init your git in root of Shared Hosting and add this following `.gitig
 Happy Code Guys
 
 # Feedback
-Please don't hesitate for issuing something that doesn't work for you, I will really happy to help you
+Please don't hesitate for [issuing](https://github.com/wendyliga/laravel-deployment-shared-hosting/issues) something that doesn't work for you, I will really happy to help you
